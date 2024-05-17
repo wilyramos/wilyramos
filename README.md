@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilyramos
-- 👀 I’m interested in dddd
-- 🌱 I’m currently learning dddd
+- 👀 I’m interested in Dev
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
