@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilyramos
-- 👀 I’m interested in Dev
-- 🌱 I’m currently working in dev projects with Next.js and Nest.js
+- 👀 I’m Full Stack Dev
+- 🌱 I’m currently working in dev projects with Next.js, Spring Boot, Oracle and Node.js.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: wily.ramos1@unmsm.edu.pe
 
